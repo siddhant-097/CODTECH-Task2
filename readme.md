@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS<br>
 ID:CT08DS8773<br>
 Domain:Web Devolopment<br>
 Duration:OCTOBER 15th,2024 to NOVEMBER 15th,2024 <br>
-Mentor: Muzammil Ahmed
+Mentor: Neela Santhosh Kumar
 <br>
 
 # Todo List Application 
